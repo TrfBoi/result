@@ -1,0 +1,7 @@
+Sample	Genotype
+wt1	wt
+wt2	wt
+wt3	wt
+mu1	mu
+mu2	mu
+mu3	mu
